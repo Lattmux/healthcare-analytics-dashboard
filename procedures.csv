@@ -1,0 +1,11 @@
+ProcedureID,ProcedureName,Specialty
+1,Appendectomy,Surgery
+2,Cataract Surgery,Ophthalmologist
+3,Dental Cleaning,Dentistry
+4,General Checkup,General Medicine
+5,Heart Bypass Surgery,Cardiologist
+6,Knee Replacement,Orthopedic
+7,MRI Scan,Neurologist
+8,Pediatric Vaccination,Pediatrician
+9,Skin Biopsy,Dermatologist
+10,X-Ray,Radiology

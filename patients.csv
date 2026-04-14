@@ -1,0 +1,87 @@
+PatientID,PatientName,Gender,State
+1,Harper,Female,New York
+2,Ethan Lee,Male,California
+3,Mia Wilson,Female,New York
+4,Mia Adams,Female,California
+5,Olivia Allen,Female,New York
+6,Patient_6,Male,New York
+7,Patient_7,Female,California
+8,Patient_8,Female,California
+9,Patient_9,Male,New York
+10,Patient_10,Female,New York
+11,Patient_11,Male,California
+12,Patient_12,Male,California
+13,Patient_13,Female,New York
+14,Patient_14,Male,New York
+15,Patient_15,Male,California
+16,Patient_16,Male,California
+17,Patient_17,Male,New York
+18,Patient_18,Female,California
+19,Patient_19,Male,California
+20,Patient_20,Female,New York
+21,Patient_21,Male,New York
+22,Patient_22,Male,New York
+23,Patient_23,Male,California
+24,Patient_24,Male,California
+25,Patient_25,Female,New York
+26,Patient_26,Female,California
+27,Patient_27,Male,California
+28,Patient_28,Male,New York
+29,Patient_29,Female,California
+30,Patient_30,Male,California
+31,Patient_31,Male,New York
+32,Patient_32,Male,New York
+33,Patient_33,Female,New York
+34,Patient_34,Female,New York
+35,Patient_35,Female,California
+36,Patient_36,Male,California
+37,Patient_37,Male,New York
+38,Patient_38,Female,New York
+39,Patient_39,Female,New York
+40,Patient_40,Female,California
+41,Patient_41,Female,New York
+42,Patient_42,Male,New York
+43,Patient_43,Female,New York
+44,Patient_44,Male,New York
+45,Patient_45,Female,New York
+46,Patient_46,Male,New York
+47,Patient_47,Female,California
+48,Patient_48,Female,New York
+49,Patient_49,Female,New York
+50,Patient_50,Female,California
+51,Patient_51,Male,California
+52,Patient_52,Female,California
+53,Patient_53,Male,California
+54,Patient_54,Male,New York
+55,Patient_55,Male,California
+56,Patient_56,Male,California
+57,Patient_57,Female,California
+58,Patient_58,Male,California
+59,Patient_59,Male,California
+60,Patient_60,Male,New York
+61,Patient_61,Female,New York
+62,Patient_62,Female,California
+63,Patient_63,Female,California
+64,Patient_64,Female,California
+65,Patient_65,Male,New York
+66,Patient_66,Male,California
+67,Patient_67,Female,New York
+68,Patient_68,Male,New York
+69,Patient_69,Male,California
+70,Patient_70,Male,New York
+71,Patient_71,Female,California
+72,Patient_72,Female,California
+73,Patient_73,Male,New York
+74,Patient_74,Female,New York
+75,Patient_75,Female,New York
+76,Patient_76,Female,California
+77,Patient_77,Female,California
+78,Patient_78,Female,New York
+79,Patient_79,Male,New York
+80,Patient_80,Female,California
+81,Patient_81,Male,New York
+82,Patient_82,Male,California
+83,Patient_83,Female,California
+84,Patient_84,Male,New York
+85,Patient_85,Male,New York
+86,Patient_86,Male,New York
